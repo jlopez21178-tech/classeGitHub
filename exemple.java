@@ -10,7 +10,7 @@ public class branques{
 		int a, b;
 		int res;
 
-		res = a + b;
+		res = a * b;
 	}
 }
 
