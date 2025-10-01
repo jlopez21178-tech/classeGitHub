@@ -10,3 +10,10 @@ public class branques{
 		a - b;
 	}
 }
+
+
+/*
+Mes
+Comentaris
+Encara
+*/
